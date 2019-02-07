@@ -1,0 +1,2 @@
+#line1	abc	20190101	par	700	10
+#line2	niki	20180101	nik	700	10
