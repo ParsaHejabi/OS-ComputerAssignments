@@ -1,0 +1,116 @@
+Recover from disk
+The logical address:	0
+The physical address:	0
+tlb index:	1
+The signed byte value at the physical address:	10000
+
+Recover from disk
+The logical address:	257
+The physical address:	257
+tlb index:	2
+The signed byte value at the physical address:	10257
+
+Recover from disk
+The logical address:	514
+The physical address:	514
+tlb index:	3
+The signed byte value at the physical address:	10514
+
+Recover from disk
+The logical address:	771
+The physical address:	771
+tlb index:	4
+The signed byte value at the physical address:	10771
+
+Recover from disk
+The logical address:	1028
+The physical address:	1028
+tlb index:	5
+The signed byte value at the physical address:	11028
+
+Recover from disk
+The logical address:	1285
+The physical address:	1285
+tlb index:	6
+The signed byte value at the physical address:	11285
+
+Recover from disk
+The logical address:	1542
+The physical address:	1542
+tlb index:	7
+The signed byte value at the physical address:	11542
+
+Recover from disk
+The logical address:	1799
+The physical address:	1799
+tlb index:	8
+The signed byte value at the physical address:	11799
+
+Recover from disk
+The logical address:	2056
+The physical address:	2056
+tlb index:	9
+The signed byte value at the physical address:	12056
+
+Recover from disk
+The logical address:	2313
+The physical address:	2313
+tlb index:	10
+The signed byte value at the physical address:	12313
+
+Recover from disk
+The logical address:	2570
+The physical address:	2570
+tlb index:	11
+The signed byte value at the physical address:	12570
+
+Recover from disk
+The logical address:	2827
+The physical address:	2827
+tlb index:	12
+The signed byte value at the physical address:	12827
+
+Recover from disk
+The logical address:	3084
+The physical address:	3084
+tlb index:	13
+The signed byte value at the physical address:	13084
+
+Recover from disk
+The logical address:	3341
+The physical address:	3341
+tlb index:	14
+The signed byte value at the physical address:	13341
+
+Recover from disk
+The logical address:	3598
+The physical address:	3598
+tlb index:	15
+The signed byte value at the physical address:	13598
+
+Recover from disk
+The logical address:	3855
+The physical address:	3855
+tlb index:	0
+The signed byte value at the physical address:	13855
+
+Recover from disk
+The logical address:	4112
+The physical address:	4112
+tlb index:	1
+The signed byte value at the physical address:	14112
+
+Page table hit
+The logical address:	10
+The physical address:	10
+tlb index:	2
+The signed byte value at the physical address:	10010
+
+TLB hit
+The logical address:	750
+The physical address:	750
+tlb index:	2
+The signed byte value at the physical address:	10750
+
+Page-fault rate:	89.47368421052631504
+TLB hit rate:	5.26315789473684159
